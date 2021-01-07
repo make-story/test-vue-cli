@@ -1,4 +1,4 @@
-# test-vue-cli.git
+# Vue 학습
 
 ## Project setup
 ```
